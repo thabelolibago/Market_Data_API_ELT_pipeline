@@ -6,7 +6,7 @@ import pandas as pd
 stock = input("Enter stock symbol: ")
 
 # Get the API key from the user.
-api_key = "922c9d9f882749a99c0e2511234314bd"
+api_key = "......."
 
 # Get the stock price.
 def get_stock_price(stock_symbol, api):
